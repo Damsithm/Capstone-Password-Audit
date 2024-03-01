@@ -1,1 +1,1 @@
-# Captsotne-Password-Audit-
+# Captstone-Password-Audit-The goal is to assess the robustness of an organization's password security by evaluating factors such as password length and the presence of commonly used dictionary words. The presence of weak passwords serves as an indicator that organizations may face an elevated risk of unauthorized access and potential compromise.
